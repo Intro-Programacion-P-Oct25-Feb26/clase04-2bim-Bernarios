@@ -17,6 +17,9 @@ public class Ejemplo03 {
                                          // obtenerSuma
         System.out.printf("El valor de la suma es: %d\n", valor);
         
+         System.out.printf(suma); // En esta linea de codigo porque dentro del 
+         //metodo main no existe un avariable declarada llamada "suma"
+         
         // System.out.printf("El valor de la suma es: %d\n", obtenerSuma(10, 30));
     }
     
