@@ -42,9 +42,9 @@ public class Ejemplo045 {
         return operacion;
 
     }
-    public static int obtenerPotencia(int a, int b) {
+    public static double obtenerPotencia(int a, int b) {
         int potencia;
-        potencia = double math.pow;
+        potencia = double math.pow(arreglo1,)
         return potencia;
 
     public static int[][] llenarMatriz(int[][] a, int[][] b) {
